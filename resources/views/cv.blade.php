@@ -49,6 +49,9 @@ License URL: https://creativecommons.org/licenses/by/4.0/
                 </li>
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+               </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#education">Education</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
@@ -71,7 +74,8 @@ License URL: https://creativecommons.org/licenses/by/4.0/
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
           <div class="my-auto" >
               <img src="img/logo-s.png" class="img-fluid md-3" alt="">
-              <h1 class="md-1">Sulthanah Adibah
+              <h2 class="md-1">Sulthanah 
+              <h2 class="md-1">Adibah
                 <span class="text-black">Syifa</span>
               </h1>
               <div class="subheading mb-5"> RAIH SEMUA KESEMPATAN BESAR DAN IDE YANG BRILIANT DENGAN
@@ -80,7 +84,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
               <p class="mb-5" style="max-width: 500px;" >hellooo saya sulthanah adibah syifa, saya berpengalaman di dunia teknologi khususnya di bidang informatika. mempunyai basic di pembuatan web dengan menggunakan laravel untuk mebuat dunia lebih terjangkau dengan teknologi, and check this out</p>
               <ul class="list-inline list-social-icons mb-0">
                   <li class="list-inline-item">
-                      <a href="#5F9EA0">
+                      <a href="https://www.facebook.com/yulrangchaniago.yulrangchaniago/">
                   <span class="fa-stack fa-lg">
                     <i class="fa fa-circle fa-stack-2x"></i>
                     <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -88,19 +92,12 @@ License URL: https://creativecommons.org/licenses/by/4.0/
                 </a>
                   </li>
                   <li class="list-inline-item">
-                      <a href="#">
+                      <a href="https://twitter.com/Adibahsyifa2">
                   <span class="fa-stack fa-lg">
                     <i class="fa fa-circle fa-stack-2x"></i>
                     <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
                   </span>
-                </a>
-                  </li>
-                  <li class="list-inline-item">
-                      <a href="#">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                  </span>
+                
                 </a>
                   </li>
                   <li class="list-inline-item">
@@ -165,6 +162,63 @@ License URL: https://creativecommons.org/licenses/by/4.0/
                   </div>
                   <div class="resume-date text-md-right">
                       <span class="text-primary">Febuari 2023 - Present</span>
+                  </div>
+                </div>  
+              </div>
+          </div>
+      </section>
+
+      
+    <!--====================================================
+                        EDUCATION
+    ======================================================-->      
+    <section class="resume-section p-3 p-lg-5 " id="education">
+          <div class="row my-auto">
+              <div class="col-12">
+                <h2 class="  text-center">EDUCATION Sulthanah Adibah S.S</h2>
+                <div class="mb-5 heading-border"></div>
+              </div>
+              <div class="resume-item col-md-6 col-sm-12 " > 
+                <div class="card mx-0 p-4 mb-5" style="border-color: #17a2b8; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.21);">
+                  <div class=" resume-content mr-auto">
+                      <h4 class="mb-3"><i class="fa fa-globe mr-3 text-info"></i>  Sekolah Dasar (SDN 04 IX Korong, Kota Solok)</h4>
+                      <p>Hai saya mengampu pendidikan sekolah dasar selama 6 tahun yang mana sebagai pelengkap untuk melanjutkan pendidikan ke tingkat setelah nya, saya mengenyam pendidikan sekolah dasar selama 6 tahun</p>
+                  </div>
+                  <div class="resume-date text-md-right">
+                      <span class="text-primary">2008 - 2014</span>
+                  </div>
+                </div>  
+              </div>
+              <div class="resume-item col-md-6 col-sm-12">
+                <div class="card mx-0 p-4 mb-5" style="border-color: #ffc107; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.21);">
+                  <div class="resume-content mr-auto">
+                      <h4 class="mb-3"><i class="fa fa-laptop mr-3 text-warning"></i>  Sekolah Menengah Pertama (MTSN Kota Solok)</h4>
+                      <p>Hai semua saya mengampu pendidikan sekolah menengah pertama selama 3 tahun tetapi yang lebih tepatnya di madrasah tsanawiyah kota solok .</p>
+                  </div>
+                  <div class="resume-date text-md-right">
+                      <span class="text-primary">2014 -2017</span>
+                  </div>
+                </div>  
+              </div>
+              <div class="resume-item col-md-6 col-sm-12">
+                <div class="card mx-0 p-4 mb-5" style="border-color: #28a745; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.21);">
+                  <div class="resume-content mr-auto">
+                      <h4 class="mb-3"><i class="fa fa-camera mr-3 text-success"></i> sekolah Menengah Atas (SMAN 2 Kota Solok)</h4>
+                      <p>Tentuya setelah di jenjang smp saya melanjutkan pendidkan saya ke SMA selama 3 tahun yang mana saya SMA di kota solok </p>
+                  </div>
+                  <div class="resume-date text-md-right">
+                      <span class="text-primary">2017 akhir - 2020 awal</span>
+                  </div>
+                </div>  
+              </div>
+              <div class="resume-item col-md-6 col-sm-12">
+                <div class="card mx-0 p-4 mb-5" style="border-color: #2196f3; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.21);">
+                  <div class="resume-content mr-auto">
+                      <h4 class="mb-3"><i class="fa fa-area-chart mr-3 text-primary"></i> Perkuliahan ( Politeknik Negeri Padang)</h4>
+                      <p>Halo saya berkuliah tentunya selama 3 tahun juga karena saya mengambil jenjang Diploma yang mana biasanya diploma hanya 3 tahun saya berada di prodi teknologi informasi di jurusan manajemen informatika.</p>
+                  </div>
+                  <div class="resume-date text-md-right">
+                      <span class="text-primary">2020 akhir - sekarang </span>
                   </div>
                 </div>  
               </div>
@@ -366,22 +420,8 @@ License URL: https://creativecommons.org/licenses/by/4.0/
                 <h3>CONTACT Sulthanah Adibah S</h3>
                 <div class="heading-border-light"></div>
                 <p>Yang berminat dan tetarik untuk melakukan kerja sama serta kolaborasi di bagian IT yang telah tertera di qualified silahkan hubungi kontak dibawah ini yaa.</p>
-              </div>   
-              <div class="row con-form">
-                <div class="col-md-12">
-                  <input type="text" name="full-name" placeholder="Full Name" class="form-control">
-                </div>
-                <div class="col-md-12">
-                  <input type="text" name="email" placeholder="Email Id" class="form-control">
-                </div>
-                <div class="col-md-12">
-                  <input type="text" name="subject" placeholder="Subject" class="form-control">
-                </div>
-                <div class="col-md-12"><textarea name="" id=""></textarea></div>
-                <div class="col-md-12 sub-but"><button class="btn btn-general btn-white" role="button">Send</button></div>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-12 mt-5"> 
+              </div>  
+              <div class="col-md-4 col-sm-12 mt-5"> 
               <div class="contact-cont2"> 
                 <div class="contact-add contact-box-desc">
                   <h3><i class="fa fa-map-marker cl-atlantis fa-2x"></i> Address</h3>
@@ -398,28 +438,17 @@ License URL: https://creativecommons.org/licenses/by/4.0/
                   Fax: 800 123 3456 <br>
                   Email: <a href="adibahsultanah19@gmail.com" class="">info@themsbit.com</a>
                 </address>
-                <ul class="list-inline social-icon-f top-data">
-                  <li><a href="#" target="_empty"><i class="fa top-social fa-facebook" style="color: #4267b2; border-color:#4267b2;"></i></a></li>
-                  <li><a href="#" target="_empty"><i class="fa top-social fa-twitter" style="color: #4AB3F4; border-color:#4AB3F4;"></i></a></li>
-                  <li><a href="#" target="_empty"><i class="fa top-social fa-google-plus" style="color: #e24343; border-color:#e24343;"></i></a></li> 
-                </ul>
-                </div>
+                </div> 
+              </section> 
+            </div>
+           
+                <section class=" d-flex flex-column" id="maps">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7978.620719706237!2d100.350146!3d-0.914283!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2fd4b8ccf722f921%3A0x3bf19ed25cfc43ba!2sMagenta%20Coklat!5e0!3m2!1sid!2sid!4v1676882830843!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</section>
               </div>
             </div> 
           </div>
-      </section>
-
-      <section class=" d-flex flex-column" id="maps">
-        <div id="map">
-          <div class="map-responsive">
-             <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d6030.418742494061!2d-111.34563870463673!3d26.01036670629853!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1471908546569" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-          </div>
-        </div>
-      </section>
-
-
-    </div>
-
+    
 <!--====================================================
                     PORTFOLIO MODALS
 ======================================================-->
